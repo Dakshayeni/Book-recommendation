@@ -50,7 +50,7 @@ The project uses a dataset containing three main files:
    ```
 3. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook Project_Pattern_recognition.ipynb
+   jupyter notebook Book-recommendation.ipynb
    ```
 
 ## **Future Enhancements**
